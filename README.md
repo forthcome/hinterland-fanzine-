@@ -1,25 +1,6 @@
 fanzine-
 ========
 
-
-fffffff
-fffffff
-fffffff
-fffffffffffffffffffffff
-ffffffffffffffffffffffff              
-fffffffffffffffffffffffff
-fffffff           fffffff
-fffffff           fffffff
-fffffff           fffffff
-fffffff           fffffff
-fffffff           fffffff
-fffffff           fffffff
-fffffffffffffffffffffffff
-ffffffffffffffffffffffff
-fffffffffffffffffffffff
-fffffff
-fffffff
-
 Forthcome | hinterland
 
 http://www.forthcome.fr/hinterland/index.html
